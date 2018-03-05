@@ -7,31 +7,31 @@ MultiLingualString for Python (2k and 3k)
 .. image:: https://coveralls.io/repos/rembish/mls/badge.svg
     :target: https://coveralls.io/r/rembish/mls
 
-.. image:: https://pypip.in/download/mls/badge.svg
+.. image:: https://img.shields.io/pypi/dm/mls.svg
     :target: https://pypi.python.org/pypi/mls
 
-.. image:: https://pypip.in/version/mls/badge.svg
+.. image:: https://img.shields.io/pypi/v/mls.svg
     :target: https://pypi.python.org/pypi/mls
 
-.. image:: https://pypip.in/py_versions/mls/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/mls.svg
     :target: https://pypi.python.org/pypi/mls
 
-.. image:: https://pypip.in/implementation/mls/badge.svg
+.. image:: https://img.shields.io/pypi/implementation/mls.svg
     :target: https://pypi.python.org/pypi/mls
 
-.. image:: https://pypip.in/status/mls/badge.svg
+.. image:: https://img.shields.io/pypi/status/mls.svg
     :target: https://pypi.python.org/pypi/mls
 
-.. image:: https://pypip.in/wheel/mls/badge.svg
+.. image:: https://img.shields.io/pypi/wheel/mls.svg
     :target: https://pypi.python.org/pypi/mls
 
 .. image:: https://pypip.in/egg/mls/badge.svg
     :target: https://pypi.python.org/pypi/mls
 
-.. image:: https://pypip.in/format/mls/badge.svg
+.. image:: https://img.shields.io/pypi/format/mls.svg
     :target: https://pypi.python.org/pypi/mls
 
-.. image:: https://pypip.in/license/mls/badge.svg
+.. image:: https://img.shields.io/pypi/l/mls.svg
     :target: https://pypi.python.org/pypi/mls
 
 This simple module implements simple unicode-like object, which can contain
